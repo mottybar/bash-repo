@@ -1,0 +1,69 @@
+
+    1  ls
+    2  pwd
+    3  vi script1.sh
+    4  chmod +x script1.sh
+    5  ls
+    6  ls -l
+    7  ./script1.sh hello
+    8  vi script1.sh
+    9  nano script1.sh
+   10  ./script1.sh hello
+   11  nano script1.sh
+   12  ./script1.sh hello
+   13  ./script1.s
+   14  ./script1.sh
+   15  nano script1.sh
+   16  ./script1.sh
+   17  nano script1.sh
+   18  ./script1.sh
+   19  nano script1.sh
+   20  ./script1.sh
+   21  nano script1.sh
+   22  ./script1.sh
+   23  nano script1.sh
+   24  ./script1.sh
+   25  nano script1.sh
+   26  ./script1.sh
+   27  nano script1.sh
+   28  ./script1.sh
+   29  nano script1.sh
+   30  ./script1.sh
+   31  nano script1.sh
+   32  ./script1.sh
+   33  nano script1.sh
+   34  history
+   35      1  ls
+   36      2  pwd
+   37      3  vi script1.sh
+   38      4  chmod +x script1.sh
+   39      5  ls
+   40      6  ls -l
+   41      7  ./script1.sh hello
+   42      8  vi script1.sh
+   43      9  nano script1.sh
+   44     10  ./script1.sh hello
+   45     11  nano script1.sh
+   46     12  ./script1.sh hello
+   47     13  ./script1.s
+   48     14  ./script1.sh
+   49     15  nano script1.sh
+   50     16  ./script1.sh
+   51     17  nano script1.sh
+   52     18  ./script1.sh
+   53     19  nano script1.sh
+   54     20  ./script1.sh
+   55     21  nano script1.sh
+   56     22  ./script1.sh
+   57     23  nano script1.sh
+   58     24  ./script1.sh
+   59     25  nano script1.sh
+   60     26  ./script1.sh
+   61     27  nano script1.sh
+   62     28  ./script1.sh
+   63     29  nano script1.sh
+   64     30  ./script1.sh
+   65     31  nano script1.sh
+   66     32  ./script1.sh
+   67     33  nano script1.sh
+   68     34  history
